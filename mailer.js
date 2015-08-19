@@ -17,7 +17,7 @@ var response = request.post('https://mandrillapp.com/api/1.0/messages/send.json'
   json: true,
   headers: {
     'accept': 'application/json',
-    'accept-encoding': '',  # https://github.com/arangodb/arangodb/issues/1436
+    'accept-encoding': '',  // https://github.com/arangodb/arangodb/issues/1436
     'content-type': 'application/json'
   }
 });
