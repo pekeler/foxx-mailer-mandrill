@@ -1,4 +1,4 @@
-# The SendGrid Mailer App
+# The Mandrill Mailer App
 
 The Mandrill mailer app provides a Foxx script and `Foxx.queues` job type for sending transactional emails with [Mandrill](https://mandrill.com/).
 
